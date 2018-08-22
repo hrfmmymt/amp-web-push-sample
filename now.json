@@ -1,0 +1,9 @@
+{
+  "name": "amp-web-push-sample",
+  "alias": [
+    "amp-web-push-sample"
+  ],
+  "env": {
+    "NODE_ENV": "production"
+  }
+}
